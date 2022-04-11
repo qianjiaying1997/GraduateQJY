@@ -1,0 +1,221 @@
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f700744ec20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f8154c91c20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f853d3b8c20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7fc7e659dc20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f6f31414c20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f9c71c5cc20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f79a72b5c20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7fec1bdd3c20>
+best epoch:0,total acc:2.98,AUC:0,lr:0.2,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f1d4f197c20>
+best epoch:0,total acc:0.38,AUC:0,lr:0.01,BatchSize:128
+best epoch:2,total acc:0.54,AUC:0,lr:0.01,BatchSize:128
+best epoch:5,total acc:0.78,AUC:0,lr:0.01,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f6f7aaa2c20>
+best epoch:0,total acc:4.36,AUC:0,lr:0.2,BatchSize:256
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f745ed4cc20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7fcc19261c20>
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f041dc35c20>
+best epoch:0,total acc:0.13,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:1.18,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:1.35,AUC:0,lr:0.2,BatchSize:128
+best epoch:10,total acc:1.94,AUC:0,lr:0.2,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7fc1d1bafc20>
+best epoch:1,total acc:2.48,AUC:0,lr:0.5,BatchSize:128
+best epoch:2,total acc:3.59,AUC:0,lr:0.5,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f0c26997c20>
+best epoch:0,total acc:0.98,AUC:0,lr:0.01,BatchSize:64
+best epoch:1,total acc:1.1,AUC:0,lr:0.01,BatchSize:64
+best epoch:3,total acc:2.22,AUC:0,lr:0.01,BatchSize:64
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7fe64dd15c20>
+best epoch:0,total acc:0.43,AUC:0,lr:0.1,BatchSize:64
+best epoch:1,total acc:0.99,AUC:0,lr:0.1,BatchSize:64
+best epoch:2,total acc:1.01,AUC:0,lr:0.1,BatchSize:64
+best epoch:3,total acc:1.7,AUC:0,lr:0.1,BatchSize:64
+best epoch:4,total acc:1.77,AUC:0,lr:0.1,BatchSize:64
+best epoch:5,total acc:2.07,AUC:0,lr:0.1,BatchSize:64
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f7499134c20>
+best epoch:0,total acc:0.73,AUC:0,lr:0.5,BatchSize:300
+best epoch:4,total acc:0.95,AUC:0,lr:0.5,BatchSize:300
+best epoch:5,total acc:1.36,AUC:0,lr:0.5,BatchSize:300
+best epoch:8,total acc:1.71,AUC:0,lr:0.5,BatchSize:300
+best epoch:16,total acc:2.73,AUC:0,lr:0.5,BatchSize:300
+best epoch:37,total acc:3.31,AUC:0,lr:0.5,BatchSize:300
+best epoch:1,total acc:1.94,AUC:0,lr:0.5,BatchSize:300
+best epoch:2,total acc:2.2,AUC:0,lr:0.5,BatchSize:300
+best epoch:8,total acc:4.54,AUC:0,lr:0.5,BatchSize:300
+best epoch:1,total acc:4.5,AUC:0,lr:0.5,BatchSize:300
+best epoch:6,total acc:4.97,AUC:0,lr:0.5,BatchSize:300
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7faf3c3c7c20>
+best epoch:0,total acc:0.16,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:1.31,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:1.48,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:1.9,AUC:0,lr:0.2,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f0961c62c20>
+best epoch:0,total acc:3.7,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:8.09,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:11.9,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:14.97,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:19.66,AUC:0,lr:0.2,BatchSize:128
+best epoch:5,total acc:24.01,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:25.41,AUC:0,lr:0.2,BatchSize:128
+best epoch:7,total acc:28.98,AUC:0,lr:0.2,BatchSize:128
+best epoch:8,total acc:32.21,AUC:0,lr:0.2,BatchSize:128
+best epoch:9,total acc:33.32,AUC:0,lr:0.2,BatchSize:128
+best epoch:10,total acc:38.97,AUC:0,lr:0.2,BatchSize:128
+best epoch:16,total acc:41.06,AUC:0,lr:0.2,BatchSize:128
+best epoch:20,total acc:41.36,AUC:0,lr:0.2,BatchSize:128
+best epoch:22,total acc:42.51,AUC:0,lr:0.2,BatchSize:128
+best epoch:25,total acc:44.84,AUC:0,lr:0.2,BatchSize:128
+best epoch:27,total acc:47.52,AUC:0,lr:0.2,BatchSize:128
+best epoch:32,total acc:48.85,AUC:0,lr:0.2,BatchSize:128
+best epoch:0,total acc:4.23,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:7.92,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:16.09,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:21.29,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:26.07,AUC:0,lr:0.2,BatchSize:128
+best epoch:7,total acc:29.07,AUC:0,lr:0.2,BatchSize:128
+best epoch:9,total acc:35.49,AUC:0,lr:0.2,BatchSize:128
+best epoch:12,total acc:36.5,AUC:0,lr:0.2,BatchSize:128
+best epoch:13,total acc:36.58,AUC:0,lr:0.2,BatchSize:128
+best epoch:15,total acc:41.16,AUC:0,lr:0.2,BatchSize:128
+best epoch:16,total acc:44.09,AUC:0,lr:0.2,BatchSize:128
+best epoch:22,total acc:44.96,AUC:0,lr:0.2,BatchSize:128
+best epoch:26,total acc:45.22,AUC:0,lr:0.2,BatchSize:128
+best epoch:28,total acc:45.24,AUC:0,lr:0.2,BatchSize:128
+best epoch:33,total acc:48.31,AUC:0,lr:0.2,BatchSize:128
+best epoch:0,total acc:2.06,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:5.89,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:8.37,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:12.43,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:15.89,AUC:0,lr:0.2,BatchSize:128
+best epoch:5,total acc:18.32,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:23.98,AUC:0,lr:0.2,BatchSize:128
+best epoch:7,total acc:24.28,AUC:0,lr:0.2,BatchSize:128
+best epoch:8,total acc:29.95,AUC:0,lr:0.2,BatchSize:128
+best epoch:10,total acc:33.61,AUC:0,lr:0.2,BatchSize:128
+best epoch:11,total acc:33.99,AUC:0,lr:0.2,BatchSize:128
+best epoch:12,total acc:38.67,AUC:0,lr:0.2,BatchSize:128
+best epoch:15,total acc:43.04,AUC:0,lr:0.2,BatchSize:128
+best epoch:26,total acc:43.42,AUC:0,lr:0.2,BatchSize:128
+best epoch:27,total acc:43.66,AUC:0,lr:0.2,BatchSize:128
+best epoch:31,total acc:44.83,AUC:0,lr:0.2,BatchSize:128
+best epoch:33,total acc:46.04,AUC:0,lr:0.2,BatchSize:128
+best epoch:48,total acc:46.89,AUC:0,lr:0.2,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7f089954cc20>
+best epoch:0,total acc:4.1,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:6.01,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:9.93,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:15.17,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:18.35,AUC:0,lr:0.2,BatchSize:128
+best epoch:5,total acc:21.17,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:24.6,AUC:0,lr:0.2,BatchSize:128
+best epoch:7,total acc:25.82,AUC:0,lr:0.2,BatchSize:128
+best epoch:8,total acc:27.77,AUC:0,lr:0.2,BatchSize:128
+best epoch:10,total acc:31.7,AUC:0,lr:0.2,BatchSize:128
+best epoch:11,total acc:37.65,AUC:0,lr:0.2,BatchSize:128
+best epoch:12,total acc:38.27,AUC:0,lr:0.2,BatchSize:128
+best epoch:13,total acc:41.25,AUC:0,lr:0.2,BatchSize:128
+best epoch:15,total acc:43.08,AUC:0,lr:0.2,BatchSize:128
+best epoch:27,total acc:46.4,AUC:0,lr:0.2,BatchSize:128
+best epoch:34,total acc:48.86,AUC:0,lr:0.2,BatchSize:128
+best epoch:0,total acc:4.32,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:6.76,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:11.44,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:16.92,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:19.77,AUC:0,lr:0.2,BatchSize:128
+best epoch:5,total acc:23.81,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:26.76,AUC:0,lr:0.2,BatchSize:128
+best epoch:7,total acc:30.17,AUC:0,lr:0.2,BatchSize:128
+best epoch:9,total acc:31.7,AUC:0,lr:0.2,BatchSize:128
+best epoch:11,total acc:40.38,AUC:0,lr:0.2,BatchSize:128
+best epoch:15,total acc:42.88,AUC:0,lr:0.2,BatchSize:128
+best epoch:19,total acc:45.31,AUC:0,lr:0.2,BatchSize:128
+best epoch:22,total acc:45.98,AUC:0,lr:0.2,BatchSize:128
+best epoch:29,total acc:46.19,AUC:0,lr:0.2,BatchSize:128
+best epoch:32,total acc:46.29,AUC:0,lr:0.2,BatchSize:128
+best epoch:35,total acc:47.86,AUC:0,lr:0.2,BatchSize:128
+best epoch:45,total acc:49.11,AUC:0,lr:0.2,BatchSize:128
+best epoch:0,total acc:4.34,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:7.79,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:13.87,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:16.74,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:20.17,AUC:0,lr:0.2,BatchSize:128
+best epoch:5,total acc:23.52,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:27.77,AUC:0,lr:0.2,BatchSize:128
+best epoch:7,total acc:31.06,AUC:0,lr:0.2,BatchSize:128
+best epoch:8,total acc:31.41,AUC:0,lr:0.2,BatchSize:128
+best epoch:9,total acc:37.98,AUC:0,lr:0.2,BatchSize:128
+best epoch:10,total acc:38.08,AUC:0,lr:0.2,BatchSize:128
+best epoch:11,total acc:43.04,AUC:0,lr:0.2,BatchSize:128
+best epoch:16,total acc:44.74,AUC:0,lr:0.2,BatchSize:128
+best epoch:30,total acc:47.45,AUC:0,lr:0.2,BatchSize:128
+best epoch:46,total acc:48.05,AUC:0,lr:0.2,BatchSize:128
+Start noisy label kmeans experiment<built-in method now of type object at 0x7fb3c798ac20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7fe8953d8c20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7f9c3080cc20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7faf1993ac20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7f2e86b4cc20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7f2e86b4cc20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7f5c643d3c20>
+best epoch:0,total acc:2.59,lr:0.2,BatchSize:128
+best epoch:1,total acc:5.61,lr:0.2,BatchSize:128
+best epoch:2,total acc:9.26,lr:0.2,BatchSize:128
+best epoch:3,total acc:14.53,lr:0.2,BatchSize:128
+best epoch:4,total acc:18.41,lr:0.2,BatchSize:128
+best epoch:5,total acc:23.52,lr:0.2,BatchSize:128
+best epoch:7,total acc:29.83,lr:0.2,BatchSize:128
+best epoch:8,total acc:32.87,lr:0.2,BatchSize:128
+best epoch:9,total acc:35.73,lr:0.2,BatchSize:128
+best epoch:10,total acc:37.49,lr:0.2,BatchSize:128
+best epoch:11,total acc:40.51,lr:0.2,BatchSize:128
+best epoch:15,total acc:41.32,lr:0.2,BatchSize:128
+best epoch:16,total acc:41.83,lr:0.2,BatchSize:128
+best epoch:18,total acc:42.56,lr:0.2,BatchSize:128
+best epoch:20,total acc:43.36,lr:0.2,BatchSize:128
+best epoch:21,total acc:63.65,lr:0.2,BatchSize:128
+best epoch:22,total acc:65.21,lr:0.2,BatchSize:128
+best epoch:24,total acc:66.19,lr:0.2,BatchSize:128
+best epoch:41,total acc:69.09,lr:0.2,BatchSize:128
+best epoch:42,total acc:69.38,lr:0.2,BatchSize:128
+Start noisy label kmeans experiment<built-in method now of type object at 0x7fbdba3fac20>
+Start noisy label kmeans experiment<built-in method now of type object at 0x7efcf952fc20>
+best epoch:0,total acc:2.49,lr:0.2,BatchSize:128
+best epoch:1,total acc:8.77,lr:0.2,BatchSize:128
+best epoch:2,total acc:10.92,lr:0.2,BatchSize:128
+best epoch:3,total acc:16.17,lr:0.2,BatchSize:128
+best epoch:4,total acc:21.09,lr:0.2,BatchSize:128
+best epoch:5,total acc:23.34,lr:0.2,BatchSize:128
+best epoch:7,total acc:26.53,lr:0.2,BatchSize:128
+best epoch:8,total acc:29.92,lr:0.2,BatchSize:128
+Start noisy label kmeans experiment<built-in method now of type object at 0x7fe34afd2c20>
+best epoch:8,total acc:30.16,lr:0.2,BatchSize:128
+best epoch:9,total acc:35.04,lr:0.2,BatchSize:128
+best epoch:10,total acc:36.91,lr:0.2,BatchSize:128
+best epoch:12,total acc:37.32,lr:0.2,BatchSize:128
+Start noisy label kmeans experiment<built-in method now of type object at 0x7f20180c5c20>
+best epoch:12,total acc:37.38,lr:0.2,BatchSize:128
+best epoch:13,total acc:38.86,lr:0.2,BatchSize:128
+best epoch:15,total acc:41.47,lr:0.2,BatchSize:128
+best epoch:16,total acc:44.04,lr:0.2,BatchSize:128
+best epoch:21,total acc:63.12,lr:0.2,BatchSize:128
+best epoch:22,total acc:64.21,lr:0.2,BatchSize:128
+Start noisy label kmeans experiment<built-in method now of type object at 0x7f151de7dc20>
+best epoch:22,total acc:65.15,lr:0.2,BatchSize:128
+best epoch:25,total acc:65.47,lr:0.2,BatchSize:128
+Start noisy label crossent preact resnet32 baseline experiment<built-in method now of type object at 0x7fb9bf2b2c20>
+best epoch:0,total acc:1.85,AUC:0,lr:0.2,BatchSize:128
+best epoch:1,total acc:3.77,AUC:0,lr:0.2,BatchSize:128
+best epoch:2,total acc:6.62,AUC:0,lr:0.2,BatchSize:128
+best epoch:3,total acc:8.95,AUC:0,lr:0.2,BatchSize:128
+best epoch:4,total acc:14.01,AUC:0,lr:0.2,BatchSize:128
+best epoch:5,total acc:17.06,AUC:0,lr:0.2,BatchSize:128
+best epoch:6,total acc:22.21,AUC:0,lr:0.2,BatchSize:128
+best epoch:8,total acc:24.86,AUC:0,lr:0.2,BatchSize:128
+best epoch:9,total acc:25.01,AUC:0,lr:0.2,BatchSize:128
+best epoch:10,total acc:33.0,AUC:0,lr:0.2,BatchSize:128
+best epoch:11,total acc:36.98,AUC:0,lr:0.2,BatchSize:128
+best epoch:13,total acc:39.64,AUC:0,lr:0.2,BatchSize:128
+best epoch:15,total acc:41.64,AUC:0,lr:0.2,BatchSize:128
+best epoch:21,total acc:41.74,AUC:0,lr:0.2,BatchSize:128
+best epoch:22,total acc:45.78,AUC:0,lr:0.2,BatchSize:128

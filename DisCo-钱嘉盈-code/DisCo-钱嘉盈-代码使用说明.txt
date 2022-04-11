@@ -1,0 +1,47 @@
+本文是毕业论文《基于混合分布模型的噪声监督分类学习》实验代码介绍，
+具体分为5个部分，分别是：实验环境设置、数据文件结构、代码文件介绍、代码使用方式、生成结果介绍。
+
+1. 实验环境设置
+
+实验在Inter Xeon E5-2699 v3 CPU @2.30GHz, NVIDIA Ti- tan Xp GPU, 128 GB Memory完成，具体各软件包版本为：
+
+python==3.6
+pytorch==1.3.1
+torchvision==0.4.2
+pillow==6.2.1
+scikit-image==0.15.0
+scikit-learn==0.22
+
+2. 数据文件结构
+训练数据存放至当前路径“./Data”文件夹内，不同噪声比例的噪声标签数据存放至当前路径"./noisy_labels"文件夹内。
+
+3. 代码文件介绍
+
+实验代码共有4个python文件（文件名结尾为.py），分别是train.py, preact_resnet_cifar10.py, prototype.py, cifar_train_val_test.py；关于各文件的功能，下面一一介绍：
+
+train.py：训练、测试各网络，调用其余各文件，进行实验时只需运行它即可。
+cifar_train_val_test.py：准备训练及测试所需要的数据。
+preact_resnet_cifar.py：论文中分类器和特征提取器所使用的backbone网络。
+prototype.py: 论文中的原型学习模块
+
+4. 代码使用方式
+
+首先保证在运行代码前，目录结构如下：
+
+├─Data（数据存放文件夹）
+├─noisy_labels（噪声标签存放文件夹）
+│  train.py
+│  preact_resnet_cifar10.py
+│  prototype.py
+│  cifar_train_val_test.py
+
+然后在当前目录运行
+python train.py --noise_label_file cifar10-dependent0.3.csv
+运行结束后，会在当前目录的2个文件夹中保存运行结果："best_model"和"log"
+
+5. 生成结果介绍
+如上所述，实验结果会被保存在两个文件夹“best_model/”, "log/"内，下面做具体介绍：
+"best_model"文件夹：包含在验证集上效果最好的分类器网络参数和原型学习模块网络参数。由torch.save(model.state_dict(),path)所保存，分别命名为：best_classifier.pkl和best_prototype.pkl
+
+"log/"文件夹：包含记录分类器及原型学习模块每次迭代验证集准确度及测试集准确度的txt文件。命名规则为：log/log_txt_random_seed/noise_level.txt
+
